@@ -22,9 +22,6 @@ public class NewcCass2 {
 		driver.findElement(By.xpath("//input[@type='checkbox']")).click();
 		driver.findElement(By.xpath("//*[@id=\"chkSelectDateOnly\"]")).click();
 		
-		
-		
-		
 	}
 
 }
